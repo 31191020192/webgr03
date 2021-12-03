@@ -7,7 +7,7 @@
         <div class="nav-expand-overlay md">
           <ul class="navbar-nav navbar-expand-overlay">
             <li class="nav-overlay-item active">
-              <a class="nav-link" href="../Views/Index?Home.php">Home<span class="sr-only"></span></a>
+              <a class="nav-link" href="../Views/Index.php?Home">Home<span class="sr-only"></span></a>
             </li>
                 <li class="nav-overlay-item">
                   <a class="nav-link" href="../Views/shop.php">Shop</a>
@@ -26,7 +26,7 @@
                     <a class="nav-link" href="../Views/Search.php">Search</a>
                   </li>
                   <li class="nav-overlay-item active">
-                    <a class="nav-link" href="../Views/Index?Home.php">Home</a>
+                    <a class="nav-link" href="../Views/Index.php?Home">Home</a>
                   </li>
                   <li class="nav-overlay-item">
                     <a class="nav-link" href="../Views/shop.php">Shop</a>
